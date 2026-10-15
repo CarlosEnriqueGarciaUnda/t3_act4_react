@@ -1,4 +1,4 @@
-# Dependencias pesadas
+# Dependencias pesadas (Node_modules)
 node_modules/
 
 # Archivos de construccion / build
